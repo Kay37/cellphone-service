@@ -10,7 +10,7 @@ public class CellPhoneBlueprints {
     private String phoneNumber;
     private String owner;
 
-    // ! java runs, if called, the constructor that we built with line 14. It sets/initiates the declared fields above
+    // ! java runs, if called, the constructor that we built with line 15. It sets/initiates the declared fields above
     // ! to the below values.
     public CellPhoneBlueprints() {
         this.serialNumber = 0;
